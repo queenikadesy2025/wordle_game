@@ -1,0 +1,8 @@
+desy,joust,3,Failed
+desy,pasta,1,Failed
+desy,avoid,3,Success
+desy,bagel,6,Failed
+rika,minim,1,Success
+rika,newly,6,Failed
+desy,roomy,6,Failed
+Desy,junta,6,Failed
