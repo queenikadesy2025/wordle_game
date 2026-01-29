@@ -1,10 +1,4 @@
-# ASSESSMENT_TASK3
-#
-# Author: DESY_RIKAYANTI
-# Student ID: 20154398
-#
-# Course: CERTIFICATE IV WEBSITE DEVELOPMENT
-# Lecturer: INGRID_ALDUM
+# THIS IS A PART OF MY CERT IV WEB DEV ASSESSMENT
 
 # Add Import statements (if needed)
 import random
@@ -417,3 +411,4 @@ if DEBUG:
     test_game()
 else:
     play_game()
+
